@@ -1,0 +1,259 @@
+html {
+  font-family: 'Inconsolata', monospace;
+  color: #dddddd;
+  background-color: #1a1a1a;
+  background-image: url("https://cdn.discordapp.com/attachments/968344565138485250/968392060698763334/header.png");
+  background-image: cover;
+  background-repeat: no-repeat;
+  border-top: 0px;
+}
+
+body {
+  background-color: #1a1a1a;
+  
+}
+
+#banner {
+  position:absolute; z-index:1;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(219, 13, 109);
+  position: absolute;
+  width: 100%;
+  margin-left: -8px;
+  margin-top: 230px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+div.content {
+  position:absolute; z-index:1;
+  margin-top: 300px;
+  margin-left: 20px;
+  padding: 10px;
+  width: 95%;
+  Background-color: #424242;
+  border: 4px solid rgb(219, 13, 109);
+}
+
+#tabla {
+  margin:0 auto;
+  margin-top: 0%;
+  color:cyan
+  
+  }
+
+  .cover{ 
+    width: 350px;
+    height: 350px;
+    margin-right: 20px;
+  
+  }
+  
+  .precio {
+    background-color: #1a1a1a;
+    color:yellow;
+    vertical-align:top;
+    padding-left: 10px;
+    padding-right:10px;
+    text-align: center;
+  }
+
+  .post {
+    background-color: #1a1a1a;
+    color: white;
+    width: 350px;
+    border: 2px solid rgb(219, 13, 109);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #postMain {
+    background-color: #1a1a1a;
+    color: white;
+    width: 700px;
+    border: 2px solid rgb(219, 13, 109);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #header {
+    padding: 10px;
+    border: 100px solid rgb(219, 13, 109);
+    background-color: #1a1a1a;
+  }
+
+  table.customTable {
+    width: 100%;
+    background-color: #1a1a1a;
+    border-collapse: separate;
+    border-spacing: 0px;
+    color: rgb(15,245,219);
+  }
+  
+  table.customTable td, table.customTable th {
+    padding: 2px;
+    border-width: 2px;
+    border-color: #424242;
+    border-style: solid;
+  }
+  
+  table.customTable thead {
+    background-color:#424242;
+  }
+  
+  #primero {
+      width: 10%;
+      text-align: center;
+      color: white;
+      background-color: rgb(219, 13, 109);
+  }
+  
+  #segundo {
+      width: 5%;
+      text-align: center;
+      color: white;
+      background-color: rgb(219, 13, 109);
+  }
+  
+  #tercero {
+      width: 85%;
+      text-align: left;
+      color: white;
+      background-color: rgb(219, 13, 109);
+      padding-left:10px;
+  }
+
+  .mini {
+    height: 60px; 
+    max-width: 60px;
+  }
+
+  .ajuste {
+    text-align: center; 
+    vertical-align: bottom;
+    top: 50%;
+  }
+
+  .titular {
+    border: none;
+    padding-left:10px;
+    font-size: 16px;
+    background-color: #1a1a1a;
+    color: rgb(15,245,219);
+  }
+
+  .user {
+    font-weight: 900;
+    text-align: center;
+  }
+
+#complemento {
+    text-align: center;
+    color: white;
+    background-color: #424242;
+    max-width: 200px;
+}
+
+#centro {
+    width: 70%;
+    text-align: left;
+    color: white;
+    background-color: #424242;
+    padding-left:0px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    max-width: 400px;
+    text-size-adjust: 100%;
+}
+
+.hilouser {
+  font-weight: 2000;
+  text-align: center;
+}
+
+.hilomini {
+  height: 150px; 
+  max-width: 150px;
+}
+
+table.hilo td {
+  padding: 2px;
+  padding-top: 10px;
+  border-width: 2px;
+  border-color: #424242;
+  border-style: solid;
+  vertical-align:top
+}
+
+table.hilo th {
+  padding: 2px;
+  border-left-width: 2px;
+  border-color: #424242;
+  border-style: solid;
+}
+
+table.hilo thead {
+  background-color:#424242;
+}
+
+#espaciador {
+  width: 20%;
+  background-color: #424242; 
+  margin-left: 0px;
+}
+
+#complemento {
+  background-color: rgb(219, 13, 109);
+  border-color: rgb(219, 13, 109);
+  border-style: solid;
+  border-width: 10px;
+}
+
+.articulo {
+  height: 150px;
+  width: 150px;
+}
+
+.arTitulo {
+  background-color: #1a1a1a;
+  color:rgb(15,245,219);
+  vertical-align:top;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.agregar {
+  background-color: rgb(219, 13, 109);
+  border-color: rgb(219, 13, 109);
+  border-style: solid;
+  color: white;
+}
+
+.facha {
+  text-align: center;
+  color: white;
+  background-color: rgb(219, 13, 109);
+  padding: 5px;
+  border-color: rgb(219, 13, 109);
+  border-style: solid;
+}

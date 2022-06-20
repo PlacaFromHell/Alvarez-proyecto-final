@@ -1,0 +1,102 @@
+[{
+    "nombre": "Motor Machifit 12-24V 3000RPM 10kg/cm",
+    "precio": "1500",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988435383568191535/unknown.png?width=559&height=559"
+},
+
+{
+    "nombre": "Driver Puente H 12V 2A máximo genérico",
+    "precio": "500",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988436185925955604/unknown.png"
+},
+
+{
+    "nombre": "Batería 12V 35A/h 10h",
+    "precio": "4000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988437188490436648/unknown.png"
+},
+
+{
+    "nombre": "Arduino Leonardo",
+    "precio": "2000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988437809415192626/unknown.png"
+},
+
+{
+    "nombre": "Módulo de ultrasonido HC-SR04",
+    "precio": "300",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988438162869190656/unknown.png"
+},
+
+{
+    "nombre": "Relay/relé SPDT 5V salida 220V 10A",
+    "precio": "400",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988438901960093756/unknown.png"
+},
+
+{
+    "nombre": "Transceptor RF NRF905",
+    "precio": "200",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988440126378102814/unknown.png"
+},
+
+{
+    "nombre": "Pulsador sin retención 30mm",
+    "precio": "170",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988442160208691270/unknown.png"
+},
+
+{
+    "nombre": "Sensor humedad y temperatura DHT11",
+    "precio": "500",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988442681233514536/unknown.png"
+},
+
+{
+    "nombre": "Placa peltier 12V 150W 25mm",
+    "precio": "2000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988443006698934302/unknown.png"
+},
+
+{
+    "nombre": "Motor PAP tipo Nema 17 1.8º bipolar 12V 2A 4kg/cm",
+    "precio": "3000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988443620719861780/unknown.png?width=559&height=559"
+},
+
+{
+    "nombre": "Electroválvula solenoide gas 5-12V",
+    "precio": "2000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988444185755529267/unknown.png?width=559&height=559"
+},
+
+{
+    "nombre": "Electroválvula solenoide agua 5-12V",
+    "precio": "2100",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988444454308446209/unknown.png?width=559&height=559"
+},
+
+{
+    "nombre": "Sensor de flujo YS-S201 efecto Hall",
+    "precio": "1700",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988444583174221964/unknown.png"
+},
+
+{
+    "nombre": "Mini bomba de agua 12V 300mA 12l/h LP68",
+    "precio": "2000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988445333518446612/unknown.png?width=559&height=559"
+},
+
+{
+    "nombre": "Termoresistor 220V 10A",
+    "precio": "2500",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988446802271404072/unknown.png"
+},
+
+{
+    "nombre": "Beeper, buzzer 12mm 5V",
+    "precio": "2000",
+    "imagen": "https://media.discordapp.net/attachments/449814712008310796/988447075295432794/unknown.png?width=559&height=559"
+}
+]
